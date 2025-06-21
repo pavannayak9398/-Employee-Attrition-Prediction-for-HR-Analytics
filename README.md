@@ -3,6 +3,9 @@
 This project predicts employee attrition using machine learning techniques. The pipeline is developed in **Google Colab**, and the best model is deployed via a **Streamlit** web app, supported by local development using **Spyder IDE**.
 
 ---
+## 📸 Preview
+![Chatbot Preview](https://raw.githubusercontent.com/pavannayak9398/-Employee-Attrition-Prediction-for-HR-Analytics/main/Initial_Page.jpg)
+---
 
 ## 🚀 Project Workflow
 
