@@ -4,7 +4,7 @@ This project predicts employee attrition using machine learning techniques. The 
 
 ---
 ## 📸 Preview
-![Chatbot Preview](https://raw.githubusercontent.com/pavannayak9398/-Employee-Attrition-Prediction-for-HR-Analytics/main/Initial_Page.jpg)
+![Chatbot Preview](https://raw.githubusercontent.com/pavannayak9398/Employee-Attrition-Prediction-for-HR-Analytics/main/Initial_Page.jpg)
 ---
 
 ## 🚀 Project Workflow
